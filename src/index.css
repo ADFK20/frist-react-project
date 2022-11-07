@@ -1,0 +1,26 @@
+.body{
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+.font{
+    font-family: 'Almarai', sans-serif;
+  color: black;
+}
+.box{
+    height: 500px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 1px 4px 4px 1px black;
+}
+.btn-del{
+    width: 200px;
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+.img-avatar{
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+}
